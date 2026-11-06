@@ -39,7 +39,7 @@ SimzWord is a desktop word-processing application developed using Python and PyS
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/SimzWord.git
+git clone https://github.com/siamewilliams/SimzWord.git
 ```
 
 ### 2. Navigate to the Project Folder
