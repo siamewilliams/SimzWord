@@ -4,6 +4,11 @@
 
 SimzWord is a desktop word-processing application developed using Python and PySide6. It is designed to provide users with a professional document editing experience, offering document formatting, editing, organization, and export capabilities.
 
+## Screen Shots
+
+![alt text](simzword.png)
+
+
 ## Features
 
 - **Rich Text Editing:** Create and format professional documents.
